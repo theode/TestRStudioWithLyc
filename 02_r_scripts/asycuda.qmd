@@ -1,0 +1,22 @@
+---
+title: "ASYCUDA Data: Fresh Produce Imports 2022-2023"
+author: "Derrick Theophille"
+date: 2023-07-25
+
+format: 
+  html:
+    toc: true
+    number-sections: true
+    fig_caption: false
+
+execute: 
+  echo: true
+  message: false
+  warning: false
+  
+knitr: 
+  opts_chunk: 
+    comment: false
+    collapse: true
+
+---
